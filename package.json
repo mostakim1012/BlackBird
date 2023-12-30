@@ -1,0 +1,50 @@
+{
+    "name": "BlackBird",
+    "version": "1.2.14",
+    "description": "A simple Facebook Messenger Bot made by me(BlackBird)",
+    "main": "mirai.js",
+    "scripts": {
+        "start": "node index",
+        "login": "node login",
+        "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mostakim1012/BlackBird.git"
+    },
+    "author": "Mostak Mohammad Raihan",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "@miraipr0ject/assets": "",
+        "axios": "",
+        "body-parser": "",
+        "caesar-salad": "",
+        "canvas": "",
+        "chalk": "^4.1.2",
+        "cheerio": "",
+        "child_process": "",
+        "crypto": "",
+        "eval": "",
+        "extract-zip": "",
+        "figlet": "",
+        "fs-extra": "",
+        "help": "^3.0.2",
+        "helyt": "",
+        "jimp": "",
+        "minimist": "",
+        "moment-timezone": "",
+        "ms": "",
+        "npmlog": "",
+        "path": "",
+        "putin": "0.0.1",
+        "readline": "",
+        "request": "",
+        "semver": "",
+        "sequelize": "",
+        "simple-youtube-api": "^5.2.1",
+        "sing": "^1.1.1",
+        "sqlite3": "",
+        "string-similarity": "",
+        "totp-generator": ""
+    }
+}
